@@ -1,6 +1,6 @@
 # Второй руби-митап koenig.rb
 
-## bundle install && npm install
+### bundle install && npm install
 
 ![image](https://raw.githubusercontent.com/r00takaspin/koenig-rb/master/7-8CwCwC_Mk.jpg)
 
