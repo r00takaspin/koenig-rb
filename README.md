@@ -1,4 +1,6 @@
-# koenig.rb v 2.5
+# koenig.rb v2.5
+
+![image](https://raw.githubusercontent.com/r00takaspin/koenig-rb/master/cat.jpg)
 
 В пятницу 17.02.2017 пройдёт 2.5 рубишно-реактивный митап koenig-rb.ru
 
