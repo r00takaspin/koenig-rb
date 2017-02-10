@@ -27,7 +27,7 @@
 
 Для связи. Вольдэмар: +7 (921) 616 39 37, Олег: +7 (905) 249 05 45
 
-Узнать как пройти можно в [телеграме](https://t.me/joinchat/AAAAAAuHZyPqNuzpdE3wwQ), так же есть событие в [фейсбуке](https://www.facebook.com/events/233467427062773/).
+Узнать как пройти можно в [телеграме](https://t.me/joinchat/AAAAAAuHZyPqNuzpdE3wwQ), так же есть событие в [фейсбуке](https://www.facebook.com/events/213006635770704/).
 
 ___
 
