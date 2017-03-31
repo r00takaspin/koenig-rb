@@ -1,15 +1,15 @@
 # koenig.rb v3.0
 ![image](https://github.com/r00takaspin/koenig-rb/blob/master/bang.png?raw=true)
 
-В пятницу 07.04.2017 пройдет руби-митап koenig-rb
+В пятницу 07.04.2017 пройдет руби-митап koenig-rb, мы поговорим о rails 5.1 и его поистине реколюционной интеграции с вебпаком из коробке, скажем прощай jQuery и Turbolinks.
 
 Список докладов:
 
 - [Вольдемар Дулецкий](https://www.facebook.com/voldemar.duletskiy) - Расширенная лекция по Vue.js, интеграции с вебпаком и запуском тестов в одной связке.
 
-Остальные доклады пока уточняются
+Остальные доклады пока уточняются.
 
-Огромное спасибо [Андрей Окунев](https://www.facebook.com/andrew.okunev.3) и компании [medialooks](https://www.medialooks.com/) за шикарную площадку
+Огромное спасибо [Андрею Окуневу](https://www.facebook.com/andrew.okunev.3) и компании [medialooks](https://www.medialooks.com/) за шикарную площадку.
 
 Для связи. Вольдэмар: +7 (921) 616 39 37, Олег: +7 (905) 249 05 45
 
